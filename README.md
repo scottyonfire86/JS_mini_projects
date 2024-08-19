@@ -1,1 +1,1 @@
-# JS_mini_projects
+A bunch of mini JS projects for practice

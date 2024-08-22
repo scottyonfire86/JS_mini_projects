@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-color: rgb(234, 234, 234);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-size: 3rem;
+    margin: 2rem 1rem;
+}
+
+.numbers {
+    margin: 3rem 3rem;
+}
+
+.numbers-button {
+    width: 15rem;
+    height: 3rem;
+    font-weight: bold;
+    font-family: monospace;
+    border-radius: 1rem;;
+}
+
+.numbers-button:hover {
+    cursor: pointer;
+    background-color: aliceblue;
+}
+
+.numbers-button:active {
+    border: 4px black solid;
+}
